@@ -16,18 +16,6 @@ A responsive Amazon landing page clone built using HTML and CSS. This project fo
 * HTML5
 * CSS3
 
-## Project Screenshot
-
-(Add a screenshot here)
-
-## Live Demo
-
-(Add your GitHub Pages link here)
-
-## GitHub Repository
-
-(Add repository link here)
-
 ## Author
 
 Payal Gupta
